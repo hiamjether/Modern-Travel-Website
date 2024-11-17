@@ -58,11 +58,11 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/travel-website.git
+   git clone https://github.com/hiamjether/Modern-Travel-Website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd travel-website
+   cd Modern-Travel-Website
    ```
 3. Install dependencies:
    ```bash
